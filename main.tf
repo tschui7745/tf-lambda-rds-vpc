@@ -1,5 +1,5 @@
 locals {
-  name_prefix = "sandbox"
+  name_prefix = "tschui-sandbox"
   tags = {
     Purpose = "CE 8 - Coaching 11"
   }
